@@ -16,4 +16,4 @@
         <td>Fecha</td>
         <td>25/08/2023</td>
     </tr>
-</table>
+</table>  
