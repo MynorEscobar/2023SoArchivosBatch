@@ -16,4 +16,9 @@
         <td>Fecha</td>
         <td>25/08/2023</td>
     </tr>
-</table>  
+</table>
+
+# Título nivel 1
+## Título nivel 2
+### Título nivel 3
+
